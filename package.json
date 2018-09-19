@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jcesarmobile/FilePicker-Phonegap-iOS-Plugin"
+    "url": "https://github.com/vadakr/FilePicker-Phonegap-iOS-Plugin"
   },
   "keywords": [
     "ecosystem:cordova",
